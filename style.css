@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+div {
+  background-color: aqua;
+  color: brown;
+}
+
+li {
+  background-color: pink;
+}
+
+.three {
+  color: chocolate;
+  background-color: aquamarine;
+  text-align: center;
+  margin: 12px;
+  padding: 12px;
+}
